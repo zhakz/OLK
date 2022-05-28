@@ -1,3 +1,3 @@
 # OLK
 online library
-were created by SAMAL and ZHANEL
+was created by SAMAL and ZHANEL
